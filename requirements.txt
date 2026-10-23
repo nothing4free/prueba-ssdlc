@@ -1,0 +1,3 @@
+# Dependencias de la aplicación.
+# MiniBanco solo usa la librería estándar de Python.
+PyYAML==5.3.1
